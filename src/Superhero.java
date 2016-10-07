@@ -5,7 +5,6 @@ public abstract class Superhero {
 	protected boolean tragicPast;
 	protected String location;
 	protected String birthName;
-	protected String training;
 	protected String archnemesis;
 	
 	public abstract void fightEvil();

@@ -1,7 +1,6 @@
 
 public abstract class Powers extends Superhero {
 
-	protected String powerOrigin;
 	protected String power;
 	
 	public void fightEvil(){
